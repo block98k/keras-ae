@@ -1,6 +1,6 @@
 # Denoise-VAE
-Deep convolutional autoencoder and autoencoder.  
-Denoise-ae.ipynb use keras with tensorflow backend.  
+Deep convolutional autoencoder.  
+keras-ae.ipynb use keras with tensorflow backend.  
 
 # Results
 <img src="re.png">
