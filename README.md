@@ -1,7 +1,7 @@
-# Denoise-VAE
+# Denoise-AE
 Deep convolutional autoencoder.  
 keras-ae.ipynb use keras with tensorflow backend.  
-
+This project is a homework of deeplearing course of Shenlan College.  
 # Results
 <img src="re.png">
 
@@ -22,5 +22,4 @@ jupyter notebook keras-ae.ipynb
 **numpy**  
 **scipy**  
 **jupyter**  
-# Acknowledgement
-This project is a homework of deeplearing course of Shenlan College
+
