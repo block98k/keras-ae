@@ -3,7 +3,7 @@ Deep convolutional autoencoder.
 Use keras with tensorflow backend.  
 This project is a homework of deeplearing course of Shenlan College.  
 # Results
-<img src="keras-ae2.png">
+<img src="keras_ae2.PNG">
 
 First row: original images  
 Second row: images add Gaussian noise with random stddev  
