@@ -12,7 +12,7 @@ Third row: results with second row as inputs
 ```
 git clone https://github.com/block98k/keras-ae.git
 cd ./keras-ae
-jupyter notebook keras-ae.ipynb
+jupyter notebook keras-ae2.ipynb
 ```
 
 # Prerequisites
